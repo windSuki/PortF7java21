@@ -65,10 +65,13 @@ project/
 ## 🗄 データベース構成
 ### 📘 ER図
 > 画像を `以下.png` に差し替えに"not found"
-> 例：  
+> ![ER図]users![Uploading ERdraw.png…]()
+
+
 > ![ER図](./exmPng/ERdraw1.png)
 
-### テーブル定義例：users
+### テーブル定義例：
+
 | カラム名 | 型 | 説明 |
 |-----------|----|------|
 | id | INT | 主キー（AUTO_INCREMENT） |
