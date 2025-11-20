@@ -66,7 +66,7 @@ project/
 ### 📘 ER図
 > 画像を `docs/er_diagram.png` に差し替えてください。  
 > 例：  
-> ![ER図](./docs/er_diagram.png)
+> ![ER図](./portf7java21/exmPng/ERdraw.png)
 
 ### テーブル定義例：users
 | カラム名 | 型 | 説明 |
